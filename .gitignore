@@ -1,0 +1,5 @@
+
+
+# Prompt Manager memory database
+memory.db
+*.db-backup
